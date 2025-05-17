@@ -68,3 +68,10 @@ MyBlog 音乐播放器提供三种交互形态:小圆型唱片、卡片播放器
 1. **代码优化**：作为我的首个开源项目，代码可能存在冗余，计划进行优化以提高代码质量。
 2. **登录功能**：当前音乐播放器缺乏登录功能，导致无法播放VIP音乐，计划尽快实现。
 3. **抽离代码**：打算未来一段时间将代码抽离出来，开源到GitHub上。
+
+## 项目参考
+灵感来源：[https://github.com/hnustwjj/wjj-music](https://github.com/hnustwjj/wjj-music)
+
+UI：[HeroUI](https://www.heroui.com/)
+
+音乐API：[https://github.com/Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)
