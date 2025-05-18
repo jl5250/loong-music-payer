@@ -22,7 +22,7 @@ MyBlog 音乐播放器提供三种交互形态:小圆型唱片、卡片播放器
 
 ## 博客效果
 
-我的博客：[starlightpathserver.fun](starlightpathserver.fun)
+我的博客：[starlightpathserver.fun](https://www.starlightpathserver.fun)
 
 ## 核心功能
 
